@@ -1,8 +1,6 @@
----
-title: Asteroid Run
----
+Asteroid Run
+============
 
- 
 
 Description:
 ============
@@ -13,7 +11,6 @@ escape.
 
 Can you escape the clutches of the aliens?
 
- 
 
 Install Instructions:
 =====================
